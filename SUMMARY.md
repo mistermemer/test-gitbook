@@ -1,8 +1,11 @@
 # Table of contents
 
 * [About Jelly-djs](README.md)
-* [BlackJack](blackjack.md)
-* [Akinator](akinator.md)
-* [QuickClick](quickclick.md)
-* [Meme](meme.md)
+
+## Functions
+
+* [BlackJack](functions/blackjack.md)
+* [Akinator](functions/akinator.md)
+* [QuickClick](functions/quickclick.md)
+* [Meme](functions/meme.md)
 
